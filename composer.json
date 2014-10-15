@@ -1,0 +1,20 @@
+{
+    "minimum-stability": "dev",
+    "name": "miechuliv/veloconnect",
+    "description": "Velo connect interface",
+
+    "authors": [
+        {
+            "name": "Mieszko Malawski",
+            "email": "miechuliv@tlen.pl"
+        }
+
+    ],
+    "require": {
+        "php": ">=5.3.3"
+
+    },
+    "autoload": {
+        "psr-0": { "Veloconnect": "src/" }
+    }
+}
